@@ -1,0 +1,1 @@
+package bridgePattern;public interface Cipher {	public String encryptWord(String w, byte k);	public String decryptWord(String w, byte k);}
